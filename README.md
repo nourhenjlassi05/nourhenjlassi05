@@ -8,13 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="left"> 
+  <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
+</p>
+
 - 🌱 I’m currently learning **Angular SpringBoot**
 
 - 📫 How to reach me **nourhenjlassi79@gmail.com**
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
-</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
