@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right alt="coding" width="400"  src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourhenjlassi05&label=Profile%20views&color=0e75b6&style=flat" alt="nourhenjlassi05" /> </p>
