@@ -12,6 +12,11 @@
 
 - 📫 How to reach me **nourhenjlassi79@gmail.com**
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nourhen-jlassi-41730524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nourhen-jlassi-41730524a/" height="30" width="40" /></a>
