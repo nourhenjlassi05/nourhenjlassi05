@@ -32,3 +32,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourhenjlassi05&show_icons=true&locale=en" alt="nourhenjlassi05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourhenjlassi05&" alt="nourhenjlassi05" /></p>
+
+
+
+
+
+
+<style>
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style>
+
+
