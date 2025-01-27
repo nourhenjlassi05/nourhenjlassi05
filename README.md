@@ -14,13 +14,6 @@
 
 ---
 
-## 🌟 Projets Notables
-
-- [💡 AdoPet](https://github.com/mouniraz/ScaffoldApp) : Application Flutter pour l'adoption de chiens, connectée à une API MongoDB.
-- [🛍️ Candle E-commerce](https://github.com/username/candle-ecommerce) : Plateforme de commerce électronique développée en Angular et Spring Boot.
-- [📊 Dashboard Admin](https://github.com/username/admin-dashboard) : Tableau de bord Angular pour la gestion des médecins et secrétaires.
-
----
 
 ## 🎯 Objectifs actuels
 
