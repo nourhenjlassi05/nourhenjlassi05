@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Nourhen Jelassi</h1>
+<h1 align="center">👋 Salut, je suis Nourhen Jlassi</h1>
 <p align="center">Étudiante en Informatique | Développeuse Full Stack</p>
 
 <p align="center">
