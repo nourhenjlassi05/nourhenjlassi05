@@ -1,34 +1,85 @@
-<h1 align="center" style="color: pink;">Hi 👋, I'm Nourhen Jlassi</h1>
-</h1>
+<h1 align="center">👋 Salut, je suis Nourhen Jelassi</h1>
+<p align="center">Étudiante en Informatique | Développeuse Full Stack</p>
+
+<p align="center">
+  Passionnée par le développement de logiciels et les technologies modernes. <br>
+  Je construis des applications web et mobiles avec <b>Angular</b>, <b>Spring Boot</b>, et <b>Flutter</b>. Toujours curieuse d'apprendre de nouvelles technologies !
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nourhenjlassi05&label=Profile%20views&color=0e75b6&style=flat" alt="nourhenjlassi05" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
 </p>
 
-- 🌱 I’m currently learning **Angular SpringBoot**
+---
 
-- 📫 How to reach me **nourhenjlassi79@gmail.com**
+## 🌟 Projets Notables
 
+- [💡 AdoPet](https://github.com/mouniraz/ScaffoldApp) : Application Flutter pour l'adoption de chiens, connectée à une API MongoDB.
+- [🛍️ Candle E-commerce](https://github.com/username/candle-ecommerce) : Plateforme de commerce électronique développée en Angular et Spring Boot.
+- [📊 Dashboard Admin](https://github.com/username/admin-dashboard) : Tableau de bord Angular pour la gestion des médecins et secrétaires.
 
+---
 
+## 🎯 Objectifs actuels
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 Apprendre davantage sur l'intégration sécurisée avec Keycloak.
+- 🚀 Contribuer à des projets open-source pour améliorer mes compétences.
+- 📘 Préparer et réussir mon stage de fin d'études (PFE).
+
+---
+
+## 🌐 Me retrouver :
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nourhen-jlassi-41730524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nourhen-jlassi-41730524a/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nourhen-jlassi-41730524a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nourhenjlassi79@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/nourhenjlassi05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhenjlassi05&show_icons=true&locale=en&layout=compact" alt="nourhenjlassi05" /></p>
+## 🛠️ Outils et Langages :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourhenjlassi05&show_icons=true&locale=en" alt="nourhenjlassi05" /></p>
+<p align="left"> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourhenjlassi05&" alt="nourhenjlassi05" /></p>
+---
 
+## 💡 Passions & Hobbies
 
+- 💻 Apprendre de nouvelles technologies.
+- 📖 Lire des articles techniques et explorer l'univers de l'open-source.
+- 🌍 Voyager et découvrir de nouvelles cultures.
+- 🎨 Créer des designs pour mes projets.
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="500"/>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nourhenjlassi05&show_icons=true&locale=en" alt="nourhenjlassi05" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourhenjlassi05&" alt="nourhenjlassi05" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhenjlassi05&show_icons=true&locale=en&layout=compact" alt="nourhenjlassi05" />
+</p>
