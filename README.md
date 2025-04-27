@@ -13,7 +13,9 @@
   <img src="https://img.shields.io/badge/Anime%20Power-Level-Over%209000%21-ff69b4" alt="anime power">
 </p>
 
-
+<p align="center">
+  <!-- Option 1 - Anime girl typing fast -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="anime girl coding power"/>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
