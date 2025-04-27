@@ -7,13 +7,11 @@
   Je construis des applications web et mobiles avec <b>Angular</b>, <b>Spring Boot</b>, et <b>Flutter</b>. Toujours curieuse d'apprendre de nouvelles technologies ! (◕‿◕✿)
 </p>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
-  <br>
-  <img src="https://img.shields.io/badge/Girl%20Power%20Coding-Level%20MAX-ff69b4">
-  <img src="https://img.shields.io/badge/Anime%20Energy-100%25-ff69b4">
+p align="center">
+  <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
 </p>
+
+
 
 ## 🎯 Objectifs Actuels Kawaii
 
