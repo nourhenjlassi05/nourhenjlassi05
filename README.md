@@ -14,8 +14,14 @@
 </p>
 
 <p align="center">
-  <!-- Option 1 - Anime girl typing fast -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="anime girl coding power"/>
+ <!-- Option 2 - Magical girl transforming into coder -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="magical girl coding"/>
+  
+  <!-- Option 3 - Cute hacker anime girl -->
+  <img src="https://media.giphy.com/media/3o85xkXpyQHQxQ5U1W/giphy.gif" width="400" alt="anime hacker girl"/>
+  
+  <!-- Option 4 - Kawaii girl with multiple screens -->
+  <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Dy/giphy.gif" width="400" alt="girl power coding"/>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
