@@ -7,10 +7,9 @@
   Je construis des applications web et mobiles avec <b>Angular</b>, <b>Spring Boot</b>, et <b>Flutter</b>. Toujours curieuse d'apprendre de nouvelles technologies ! (◕‿◕✿)
 </p>
 
-p align="center">
+<p align="center">
   <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
 </p>
-
 
 
 ## 🎯 Objectifs Actuels Kawaii
