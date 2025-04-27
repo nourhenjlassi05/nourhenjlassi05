@@ -8,21 +8,14 @@
 </p>
 
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nourhenjlassi05&label=Profile%20views&color=ff69b4&style=flat" alt="nourhenjlassi05" /> 
-  <img src="https://img.shields.io/badge/Anime%20Power-Level-Over%209000%21-ff69b4" alt="anime power">
-</p>
+<!-- Option 5 - Cyber girl with glowing code -->
+<img src="https://media.giphy.com/media/l0HU7JIWcm8c2sPQc/giphy.gif" width="450">
 
-<p align="center">
- <!-- Option 2 - Magical girl transforming into coder -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="magical girl coding"/>
-  
-  <!-- Option 3 - Cute hacker anime girl -->
-  <img src="https://media.giphy.com/media/3o85xkXpyQHQxQ5U1W/giphy.gif" width="400" alt="anime hacker girl"/>
-  
-  <!-- Option 4 - Kawaii girl with multiple screens -->
-  <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Dy/giphy.gif" width="400" alt="girl power coding"/>
+<!-- Option 6 - Anime girl with futuristic UI -->
+<img src="https://media.giphy.com/media/10RgsXHFHv7bQ4/giphy.gif" width="450">
 
+<!-- Option 7 - Cute determined programmer -->
+<img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Dy/giphy.gif" width="450">
 <p align="center">
   <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" alt="funny coding gif" width="500"/>
 </p>
