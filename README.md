@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/Anime%20Power-Level-Over%209000%21-ff69b4" alt="anime power">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnUtXJrSB5Ksj3FfCE/giphy.gif" alt="anime coding gif" width="500"/>
-</p>
 
 
 <p align="center">
