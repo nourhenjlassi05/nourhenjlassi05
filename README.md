@@ -1,5 +1,5 @@
-<h1 align="center">🌸 こんにちは! Je suis Nourhen Jlassi ✨</h1>
-<p align="center">Master en Data Analyse & Business Intelligence | Développeuse Full Stack Kawaii 💖</p>
+<h1 align="center">🌸  Je suis Nourhen Jlassi ✨</h1>
+<p align="center">Master en Data Analyse & Business Intelligence | Développeuse Full Stack  </p>
 
 <p align="center">
   Passionnée par la data science, le business intelligence et le développement logiciel avec une touche d'anime magic! <br>
@@ -115,4 +115,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourhenjlassi05&layout=compact&theme=tokyonight&hide_border=true&bg_color=ffd6e7&title_color=ff69b4" alt="nourhenjlassi05" />
 </p>
 
-<h3 align="center">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Merci pour votre visite! ✧ﾟ･: *ヽ(◕ヮ◕ヽ)</h3>
+<h3 align="center"> Merci pour votre visite! </h3>
