@@ -1,10 +1,9 @@
-
 <h1 align="center">🌸 こんにちは! Je suis Nourhen Jlassi ✨</h1>
-<p align="center">Étudiante en Informatique | Développeuse Full Stack Kawaii 💖</p>
+<p align="center">Master en Data Analyse & Business Intelligence | Développeuse Full Stack Kawaii 💖</p>
 
 <p align="center">
-  Passionnée par le développement logiciel et les technologies modernes avec une touche d'anime magic! <br>
-  Je construis des applications web et mobiles avec <b>Angular</b>, <b>Spring Boot</b>, et <b>Flutter</b>. Toujours curieuse d'apprendre de nouvelles technologies ! (◕‿◕✿)
+  Passionnée par la data science, le business intelligence et le développement logiciel avec une touche d'anime magic! <br>
+  Je construis des applications web et mobiles avec <b>Angular</b>, <b>Spring Boot</b>, et <b>Flutter</b>. Actuellement en Master, je me spécialise en Data Analyse et BI pour transformer les données en décisions stratégiques. (◕‿◕✿)
 </p>
 
 <p align="center">
@@ -12,12 +11,13 @@
 </p>
 
 
-## 🎯 Objectifs Actuels Kawaii
+## 🎯 Objectifs Actuels Kawaii (Master Data & BI)
 
-- 🌸 Maîtriser l'intégration sécurisée avec Keycloak (même la sécurité peut être mignonne!)
-- 🍡 Contribuer à des projets open-source anime-related
-- 🎓 Réussir mon stage de fin d'études (PFE) avec style manga
-- ✨ Créer une appli portfolio thématique anime
+- 📊 Maîtriser l'analyse de données avec Python, R et Power BI (des données mignonnes mais puissantes!)
+- 🧠 Approfondir mes compétences en Machine Learning pour des prédictions kawaii
+- 🔍 Explorer les techniques de Data Visualization pour raconter des histoires avec les données
+- 🎓 Réussir mon Master en Data Analyse et BI avec mention très bien ✨
+- 🌸 Créer des dashboards interactifs thématiques anime
 
 ---
 
@@ -38,6 +38,16 @@
 
 ## 🛠️ Outils et Langages Kawaii :
 
+### 📊 Data & Business Intelligence
+<p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python-chan"/> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" title="R-kun"/> </a>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40" title="Power BI-sama"/>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40" title="Tableau-chan"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas-tan"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" title="Scikit-learn-san"/> </a>
+</p>
+
 ### 🌸 Web Development
 <p>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" title="Angular-chan"/> </a> 
@@ -57,6 +67,7 @@
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL-chan"/> </a> 
   <a href="https://mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB-kun"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL-chan"/> </a>
 </p>
 
 ### ✨ UI/UX & Styling
@@ -70,18 +81,21 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode-senpai"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android-kun"/>
-  AdobeXD, SpringToolSuite, Dev-C++, Eclipse, Oracle Database
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter-chan"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda-sama"/>
+  AdobeXD, SpringToolSuite, Dev-C++, Eclipse, Oracle Database, Power BI Desktop
 </p>
 
 ---
 
 ## 💖 Passions & Hobbies Kawaii
 
+- 📊 Explorer les données et trouver des insights cachés (comme des easter eggs dans un anime!)
 - 💻 Apprendre de nouvelles technologies (avec des stickers anime sur mon laptop!)
-- 📖 Lire des articles techniques et des mangas tech-related
+- 📖 Lire des articles techniques, des mangas et des livres sur la data science
 - 🌍 Voyager et découvrir de nouvelles cultures (et leur animation locale)
-- 🎨 Créer des designs kawaii pour mes projets
--   Regarder des anime pour l'inspiration coding
+- 🎨 Créer des dashboards kawaii pour mes projets
+- 📈 Participer à des compétitions Kaggle pour améliorer mes skills en ML
 
 ---
 
